@@ -11,4 +11,4 @@ For More details, please see the enclosed **pptx** file.
 
 Please adhere to your organization's rules for using this code.
 
-For [Concordia University](http://www.concordia.ca) ,these rules can be found [here](http://www.concordia.ca/students/academic-integrity/offences.html).
+For [Concordia University](http://www.concordia.ca) ,these rules can be found [here](https://www.concordia.ca/conduct/academic-integrity.html).
